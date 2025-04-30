@@ -1,0 +1,57 @@
+{
+    "products": [
+        {
+            "flavors": [
+                {
+                    "architecture": {
+                        "diagrams": [
+                            {
+                                "description": "This is a place holder diagram.  Please create one.",
+                                "diagram": {
+                                    "caption": "Place holder",
+                                    "url": "https://raw.githubusercontent.com/kzhang-2017/test-terraform/migration-1.0.0-1746027483/architecture-diagram-placeholder.drawio.svg"
+                                }
+                            }
+                        ],
+                        "features": [
+                            {
+                                "description": "edit me to suit your needs",
+                                "title": "Sample feature"
+                            }
+                        ]
+                    },
+                    "compliance": {},
+                    "configuration": [
+                        {
+                            "default_value": "foobar",
+                            "description": "The name to pass to the template.",
+                            "key": "name",
+                            "required": true,
+                            "type": "string"
+                        }
+                    ],
+                    "iam_permissions": [],
+                    "install_type": "fullstack",
+                    "label": "Standard",
+                    "name": "standard",
+                    "working_directory": "."
+                }
+            ],
+            "keywords": [
+                "terraform"
+            ],
+            "label": "Migrated my-start-from-scratch-workspace",
+            "long_description": "Detailed description to show at consumption",
+            "name": "migrated_my_start_from_scratch_workspace",
+            "offering_docs_url": "",
+            "offering_icon_url": "",
+            "product_kind": "solution",
+            "short_description": "Summary description to show on catalog tile",
+            "support_details": "Your support statement",
+            "tags": [
+                "compute",
+                "terraform"
+            ]
+        }
+    ]
+}
