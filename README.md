@@ -1,4 +1,4 @@
-# terraform-sample
+# test-terraform
 ## Contents:
 1. [Overview](#overview)
 2. [Prerequisites](#prerequisites)
