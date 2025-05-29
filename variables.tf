@@ -25,3 +25,9 @@ variable "d" {
   type        = string
   default     = "D"
 }
+
+variable "e" {
+  description = "A simple string type variable with a default value."
+  type        = string
+  default     = "E"
+}
