@@ -18,8 +18,3 @@ output d {
     description = "output of variable named d"
     value = var.d
 }
-
-output e {
-    description = "output of variable named e"
-    value = var.e
-}
